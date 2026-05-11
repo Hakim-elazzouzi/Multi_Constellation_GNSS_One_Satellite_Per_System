@@ -55,10 +55,11 @@ project3-multi-constellation/
 │   ├── plot1_pseudorange.png
 │   ├── plot2_snr_heatmap.png
 │   └── plot3_availability.png
-├── project3_multi_constellation.ipynb   ← Main notebook (run this)
-├── requirements.txt                      ← Python dependencies
-├── LICENSE                               ← MIT License
-└── README.md                             ← This file
+├── src/
+│   ├── project3_multi_constellation_gnss__one_satellite_per_system.py     ← Main python (run this)
+├── requirements.txt                                                       ← Python dependencies
+├── LICENSE                                                                ← MIT License
+└── README.md                                                              ← This file
 ```
 
 ---
