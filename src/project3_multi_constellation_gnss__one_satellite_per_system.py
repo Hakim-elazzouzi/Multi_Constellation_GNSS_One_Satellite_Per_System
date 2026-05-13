@@ -42,10 +42,6 @@ QZSS     ~36,000 km quasi-GEO      (stays almost fixed in the sky over Japan/Pac
 # Step6: Plot 3: Satellite Availability Timeline (All Constellations)
 # Step7: Numerical Summary per Constellation
 =============================================================================
-"""
-
-pip install --upgrade georinex
-
 # ──────────────────────────────────────────────────────────
 # Step 1 — Install & Import Libraries
 # ──────────────────────────────────────────────────────────
